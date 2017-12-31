@@ -1,0 +1,14 @@
+C:\blp\curso C#\CadastrosDeCarros\CadastrosDeCarros\bin\Debug\CadastrosDeCarros.exe.config
+C:\blp\curso C#\CadastrosDeCarros\CadastrosDeCarros\bin\Debug\CadastrosDeCarros.exe
+C:\blp\curso C#\CadastrosDeCarros\CadastrosDeCarros\bin\Debug\CadastrosDeCarros.pdb
+C:\blp\curso C#\CadastrosDeCarros\CadastrosDeCarros\obj\Debug\CadastrosDeCarros.csprojResolveAssemblyReference.cache
+C:\blp\curso C#\CadastrosDeCarros\CadastrosDeCarros\obj\Debug\CadastrosDeCarros.formCadastrar.resources
+C:\blp\curso C#\CadastrosDeCarros\CadastrosDeCarros\obj\Debug\CadastrosDeCarros.Properties.Resources.resources
+C:\blp\curso C#\CadastrosDeCarros\CadastrosDeCarros\obj\Debug\CadastrosDeCarros.csproj.GenerateResource.Cache
+C:\blp\curso C#\CadastrosDeCarros\CadastrosDeCarros\obj\Debug\CadastrosDeCarros.csproj.CoreCompileInputs.cache
+C:\blp\curso C#\CadastrosDeCarros\CadastrosDeCarros\obj\Debug\CadastrosDeCarros.exe
+C:\blp\curso C#\CadastrosDeCarros\CadastrosDeCarros\obj\Debug\CadastrosDeCarros.pdb
+C:\blp\curso C#\CadastrosDeCarros\CadastrosDeCarros\bin\Debug\ManipulacaoDeArquivo.dll
+C:\blp\curso C#\CadastrosDeCarros\CadastrosDeCarros\bin\Debug\Newtonsoft.Json.dll
+C:\blp\curso C#\CadastrosDeCarros\CadastrosDeCarros\bin\Debug\ManipulacaoDeArquivo.pdb
+C:\blp\curso C#\CadastrosDeCarros\CadastrosDeCarros\bin\Debug\Newtonsoft.Json.xml

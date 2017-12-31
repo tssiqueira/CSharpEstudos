@@ -1,0 +1,6 @@
+C:\blp\curso C#\CadastrosDeCarros\ManipulacaoDeArquivo\bin\Debug\ManipulacaoDeArquivo.dll
+C:\blp\curso C#\CadastrosDeCarros\ManipulacaoDeArquivo\bin\Debug\ManipulacaoDeArquivo.pdb
+C:\blp\curso C#\CadastrosDeCarros\ManipulacaoDeArquivo\obj\Debug\ManipulacaoDeArquivo.csproj.CoreCompileInputs.cache
+C:\blp\curso C#\CadastrosDeCarros\ManipulacaoDeArquivo\obj\Debug\ManipulacaoDeArquivo.dll
+C:\blp\curso C#\CadastrosDeCarros\ManipulacaoDeArquivo\obj\Debug\ManipulacaoDeArquivo.pdb
+C:\blp\curso C#\CadastrosDeCarros\ManipulacaoDeArquivo\obj\Debug\ManipulacaoDeArquivo.csprojResolveAssemblyReference.cache
